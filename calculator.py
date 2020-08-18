@@ -3,9 +3,9 @@ def add(a,b):
 if __name__ == __"main"__:
     print("Enter First Number")
     x=int(input())
-    X=abs(x)
+    P=abs(x)
     print("Enter Second Number")
     y=int(input())
-    Y=abs(y)
-    print("addition = ",add(X,Y))
+    Q=abs(y)
+    print("addition = ",add(P,Q))
 
