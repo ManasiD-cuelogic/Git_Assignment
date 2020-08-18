@@ -2,10 +2,10 @@ def add(a,b):
     return a+b
 if __name__ == __"main"__:
     print("Enter First Number")
-    x=int(input())
-    P=abs(x)
+    x=abs(int(input()))
+    
     print("Enter Second Number")
-    y=int(input())
-    Q=abs(y)
+    y=abs(int(input()))
+    
     print("addition = ",add(P,Q))
 
