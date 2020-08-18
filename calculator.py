@@ -1,13 +1,8 @@
 def add(a,b):
     return a+b
-def divide(a,b):
-    return a/b
 
 if __name__ == __"main"__:
     print("Enter First Number")
-    x=int(input())
+    x=abs(int(input()))
+    
     print("Enter Second Number")
-    y=int(input())
-    print("addition = ",add(x,y))
-    print("division = ",divide(x,y))
-
