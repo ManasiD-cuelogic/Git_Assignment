@@ -5,3 +5,6 @@ if __name__ == __"main"__:
     x=abs(int(input()))
     
     print("Enter Second Number")
+    y=abs(int(input()))
+    
+    
