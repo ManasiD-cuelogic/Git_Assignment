@@ -7,5 +7,5 @@ if __name__ == __"main"__:
     print("Enter Second Number")
     y=abs(int(input()))
     
-    print("addition = ",add(P,Q))
+    print("addition = ",add(x,y))
 
